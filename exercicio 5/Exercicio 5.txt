@@ -1,0 +1,18 @@
+Objetivo
+    Descobrir qual dos três interruptores controla cada uma das três lâmpadas, 
+    usando apenas duas idas até as salas das lâmpadas.
+
+- Primeiro Passo:
+
+    Ligue o Primeiro Interruptor e deixe-o ligado por uns 5 minutos para que a lâmpada conectada a ele possa esquentar bem.
+
+- Segundo Passo:
+
+    Desligue o Primeiro Interruptor e ligue o Segundo Interruptor.
+
+- Terceiro Passo:
+    Agora, vá até as salas onde estão as lâmpadas:
+
+        Na Sala 1: Veja se a lâmpada está acesa. Se estiver, essa lâmpada é controlada pelo Segundo Interruptor.
+        Na Sala 2: Toque na lâmpada para sentir a temperatura. Se estiver quente, mas apagada, então é a lâmpada controlada pelo Primeiro Interruptor.
+        Na Sala 3: A lâmpada aqui deve estar apagada e fria. Isso significa que ela é controlada pelo Terceiro Interruptor.
