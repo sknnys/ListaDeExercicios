@@ -1,3 +1,5 @@
+package estudos.exercicio1;
+
 import java.util.Scanner;
 
 /**
